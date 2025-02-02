@@ -8,3 +8,5 @@ Instação do git
 Configuração do git
 
 ### comandos
+
+### git commit
