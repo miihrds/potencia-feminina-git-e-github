@@ -2,5 +2,9 @@
 
 
 ### Nota 1
+Instação do git
 
 ### Nota 2
+Configuração do git
+
+### comandos
